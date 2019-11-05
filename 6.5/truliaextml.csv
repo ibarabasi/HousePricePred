@@ -1,4 +1,4 @@
-Id,Bed,Bath,Sqft,Price,Lot,Ybuilt,LClass,Ptax,Wscore
+Id,Bed,Bath,Sqft,Price,Lot,LClass,Ybuilt,Ptax,Wscore
 1092299185,4,3,6677,1200,710464,Farm,1945,27821,81
 5060704696,6,6,6100,1360,91900,XLlot,1972,27417,2
 5058815070,5,5,5785,1850,61146,XLlot,2001,23250,1
